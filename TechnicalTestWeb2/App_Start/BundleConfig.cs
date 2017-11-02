@@ -29,8 +29,3 @@ namespace TechnicalTestWeb2
         }
     }
 }
-bundles.Add(new ScriptBundle("~/bundles/jqueryui").Include(  
-          "~/Scripts/jquery-ui-1.12.1.js"));  
-//css  
-bundles.Add(new StyleBundle("~/Content/cssjqryUi").Include(  
-       "~/Content/jquery-ui.css"));  

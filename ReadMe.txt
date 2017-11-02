@@ -25,6 +25,8 @@ Item 3:
 The Shipments link in the menu bar of the app is not working, 
 it should like to the index page of the ShipmentsController 
 
+DONE
+
 Please Answer:
 What was it?  How did you fix?
 
@@ -44,6 +46,8 @@ Item 5:
 There is a bug in the code.
 The estimated ship date must be at least 24 hours after the Date Ordered.  Fix
 
+DONE
+
 Please Answer:
 What was wrong and what was required to fix?
 
@@ -52,6 +56,8 @@ In EstShipDateValidate.cs,  if (result > 0) should be changed to  (result < 0)
 Item 6:
 When Editing customer Nitin, the province appear as Quebec.  Not Ontario - the default for create.
 
+ANSWERED
+
 Explain why it was not Ontario or NS?
 
 In CustomersController.cs, the return new List lists Quebec as the first province.
@@ -59,6 +65,8 @@ In CustomersController.cs, the return new List lists Quebec as the first provinc
 Item 7:
 Add a button to the right of the customer dropdown to open the add a new customer.
 Hint: you can use @Html.ActionLink ( does not have to be a button)
+
+DONE
 
 Item 8:
 Convert Text dates to date picker

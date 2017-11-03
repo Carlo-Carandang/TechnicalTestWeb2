@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "appliesTo": "TechnicalTestWeb2/bin/TechnicalTestWeb2.dll",
+      "taskName": "task-TechnicalTestWeb2",
+      "type": "launch"
+    }
+  ],
+  "version": "0.2.1"
+}

@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "dll",
+      "exe": "",
+      "project": "TechnicalTestWeb2\\bin\\TechnicalTestWeb2.dll",
+      "name": "TechnicalTestWeb2.dll"
+    }
+  ]
+}

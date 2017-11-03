@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\packages",
+    "\\TechnicalTestWeb2",
+    "\\TechnicalTestWeb2\\bin",
+    "\\TechnicalTestWeb2\\bin\\roslyn",
+    "\\TechnicalTestWeb2\\Models",
+    "\\TechnicalTestWeb2\\obj",
+    "\\TechnicalTestWeb2\\Properties",
+    "\\TechnicalTestWeb2\\Views",
+    "\\TechnicalTestWeb2\\Views\\Customers",
+    "\\TechnicalTestWeb2\\Views\\Shipments"
+  ],
+  "SelectedNode": "\\TechnicalTestWeb2\\Views\\Shipments\\Create.cshtml",
+  "PreviewInSolutionExplorer": false
+}

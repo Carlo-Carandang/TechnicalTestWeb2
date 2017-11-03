@@ -70,3 +70,7 @@ DONE
 
 Item 8:
 Convert Text dates to date picker
+
+DONE
+
+Added date picker to create shipment view for date field
